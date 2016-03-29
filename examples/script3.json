@@ -1,0 +1,1 @@
+["console.log", ["cond", ["<", 5, 6], "\"it works\"", "\"it doesn't work...\""]]

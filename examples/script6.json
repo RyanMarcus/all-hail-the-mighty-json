@@ -1,0 +1,6 @@
+["last",
+ ["defun", "\"double\"", {"args":["n"],
+			  "body": ["*", 2, "n"]
+			 }],
+ ["console.log", ["double", ["double", 5]]]
+]

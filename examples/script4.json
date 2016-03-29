@@ -1,0 +1,4 @@
+["last",
+ ["defun", "\"f\"", {"args": ["param1"], "body": ["console.log", "param1"]}],
+ ["f", "\"hello\""]]
+
