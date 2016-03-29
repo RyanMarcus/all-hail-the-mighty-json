@@ -31,4 +31,4 @@ Obviously, this approach uses a standard monadic eager-applicative functor over 
 ~ $ 
 ```
 
-Minified, the entire interpreter is only 550 bytes, making it a small addition to your no-doubt multi-megabyte Angular2/JQuery/Bootstrap stack. Future versions will include support for async/await, JSX, reactive programming, and possibly something actually useful.
+Minified, the entire interpreter is only 550 bytes, making it a small, but important, addition to your webapp. Future versions will include support for async/await, JSX, reactive programming, and possibly something actually useful.
